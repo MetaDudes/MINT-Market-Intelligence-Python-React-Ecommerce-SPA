@@ -1,1 +1,1 @@
-# MINT-Market-Intelligence-Artbitrage-SPA-Python-React
+# MINT-Market-Intelligence-Python-React-Ecommerce-SPA
