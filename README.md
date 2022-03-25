@@ -240,7 +240,7 @@ Endpoints
 /transactions/schema/ -- view the JSON schema for this resource
 Example request:
 
-http https://swapi.dev/api/vehicles/4/
+http https://mint.com/api/transactions/1/
 Example response:
 
 HTTP/1.0 200 OK
